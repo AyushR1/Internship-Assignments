@@ -18,6 +18,15 @@ Assignments
 4.  [Convin Assignment](https://github.com/AyushR1/convin-assignment)
 
     -   Google Calendar integration with OAuth
+      
+5.  [Dyte Assignment](https://github.com/dyte-submissions/november-2023-hiring-AyushR1)
+
+    -   Log Ingestor and Query service interface with filtering.
+  
+6.  [Humalect Assignment](https://github.com/AyushR1/humalect-assignment)
+
+    -   Weather App using rapid API (incomplete)
+
 
 Contribution
 ------------
