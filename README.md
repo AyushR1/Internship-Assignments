@@ -9,12 +9,15 @@ Assignments
 1.  [MoMoney Assignment](https://github.com/AyushR1/momoney-assignment)
 
     -   GoLang-based Cache server with docker setup
+      
 2.  [Zenskar Assignment](https://github.com/AyushR1/zenskar-assignment)
 
-    -   Two-way integrations with Stripe using Kafa as a queuing service
+    -   Two-way integrations with Stripe using Kafka as a queuing service
+        
 3.  [SportsTribe Assignment](https://github.com/AyushR1/sportstribe-assignment)
 
     -   Blog app
+      
 4.  [Convin Assignment](https://github.com/AyushR1/convin-assignment)
 
     -   Google Calendar integration with OAuth
