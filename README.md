@@ -1,4 +1,4 @@
-Internship Assignments
+Internship Hiring Assignments
 ======================
 
 This repository is a curated list of assignments I've completed as part of the first round of hiring processes for backend/SDE internships and placements. These assignments can serve as a resource to gain ideas and help you on your journey towards similar roles.
